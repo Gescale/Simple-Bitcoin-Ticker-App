@@ -1,1 +1,1 @@
-# Simple-Bitcoin-Tinker-App
+# Bitcoin-Tinker-App
