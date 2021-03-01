@@ -1,1 +1,1 @@
-# Bitcoin-Tinker-App
+# Bitcoin-Ticker-App
